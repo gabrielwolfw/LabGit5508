@@ -1,8 +1,4 @@
 imagine dragon
-<<<<<<< HEAD
-
-peso pluma
-=======
 peso pluma
 katy perry
->>>>>>> 1dfd08a6379f07ed6a1fb14fa7aad42fd174d944
+
